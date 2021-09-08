@@ -31,3 +31,6 @@
   <img src="https://img.shields.io/badge/Lamborghini-DDB320?style=flat-square&logo=Lamborghini&logoColor=white"/></a>&nbsp
  
 </p>
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-han&show_icons=true&theme=radical)
