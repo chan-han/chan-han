@@ -33,4 +33,4 @@
 </p>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-han&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-han&show_icons=true&theme=dracula&count_private=true)
