@@ -32,7 +32,8 @@
  
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chan-han)](https://github.com/dayfly-life/SWM_React)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chan-han)](https://github.com/chan-han/Algorithm)
+
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-han&include_all_commits=true&show_icons=true&theme=onedark&count_private=true)
