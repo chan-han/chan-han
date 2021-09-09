@@ -32,7 +32,7 @@
  
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chan-han)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chan_han)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
