@@ -33,7 +33,9 @@
 </p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chan_han)](https://github.com/anuraghazra/github-readme-stats)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={chan_han})](https://solved.ac/{chan_han})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={chan_han})](https://solved.ac/{chan_han})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={chan_han})](https://solved.ac/{chan_han})
 
 
 
