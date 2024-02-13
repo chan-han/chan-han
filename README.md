@@ -32,11 +32,6 @@
  
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chan_han)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hch9900)](https://solved.ac/hch9900) -->
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hch9900)](https://solved.ac/hch9900)
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hch9900)](https://solved.ac/hch9900) -->
-
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-han&include_all_commits=true&show_icons=true&theme=onedark&count_private=true)
